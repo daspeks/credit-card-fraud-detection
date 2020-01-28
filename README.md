@@ -1,4 +1,5 @@
-# credit-card-fraud-detection
+# Credit Card Fraud Detection
+![](https://img.shields.io/github/repo-size/daspeks/credit-card-fraud-detection)
 
 ### Objective
 The aim of this project is to build a classifier that detects fraudulent credit card transactions. We will do so using 3 machine learning algorithms:
